@@ -1,6 +1,6 @@
 import socket    
 hostname = socket.gethostname()    
-IPAddr = socket.gethostbyname(hostname)    
-print(IPAddr + ' ' + hostname)
+ip_addr = socket.gethostbyname(hostname)    
+print(ip_addr)
 input("Press enter to exit ;)")    
   
