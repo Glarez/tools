@@ -8,3 +8,5 @@ NET USE J: \\SRV1\Investigacion_Desarrollo /Y
 NET USE P: \\SRV1\Planificacion_Estudios /Y
 NET USE I: \\SRV1\Inteligencia_Mercado /Y
 
+@pause
+
